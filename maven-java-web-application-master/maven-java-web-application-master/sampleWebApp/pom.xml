@@ -105,6 +105,13 @@ Also show cases the 'Simple Logging Framework - slf4j'.</description>
  			 <artifactId>selenium-chrome-driver</artifactId>
  			 <version>3.X</version>
 		</dependency>
+		
+		<dependency>
+ 			 <groupId>org.seleniumhq.selenium</groupId>
+  			 <artifactId>selenium-java</artifactId>
+  			 <version>3.X</version>
+		</dependency>
+
 
 		
 	</dependencies>
